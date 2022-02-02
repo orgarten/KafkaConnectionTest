@@ -1,0 +1,4 @@
+export KAFKA_HOSTENAME=""
+export KAFKA_USERNAME=""
+export KAFKA_PASSWORD=""
+export KAFKA_TOPIC=""
